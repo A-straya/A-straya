@@ -23,10 +23,6 @@
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 </p>
-
-</td>
-
-</tr>
 </table>
 #  Welcome to Astraya's Universe
 
