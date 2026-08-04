@@ -40,7 +40,7 @@
 
 <td width="72%" valign="top">
 
-## About Me
+🪐 About Me
 
 Hi, I'm **Aya**.
 
