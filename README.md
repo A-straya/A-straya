@@ -50,8 +50,8 @@ I enjoy designing networks, exploring cybersecurity, learning Linux, and automat
 Currently building real-world CCNA labs and documenting everything on GitHub.
 
 </td>
-<td width="28%" align="center" valign="middle" style="padding:20px;">
-  <img src="eclipse.png" width="220" alt="Eclipse">
+<td width="80%" align="center" valign="middle" style="padding:20px;">
+  <img src="eclipse.png" width="100%" alt="Eclipse">
 </td>
 </td>
 
