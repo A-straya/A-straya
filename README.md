@@ -39,7 +39,7 @@
 
 <td width="72%" valign="top">
 
-#About Me
+About Me
 
 Hi, I'm **Aya**.
 
@@ -51,9 +51,9 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 
 </td>
 
-<td align="center" width="28%">
+<td align="center" width="40%">
 
-<img src="eclipse.png" width="250"/>
+<img src="eclipse.png" width="300"/>
 
 </td>
 
