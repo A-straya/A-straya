@@ -58,9 +58,9 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 <h2>💻 Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,windows,vscode,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  Cisco • Kali Linux • Wireshark • Nmap
+  <img src="https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,linux,windows&theme=dark" />
+  <img src="https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=white" />
 </p>
