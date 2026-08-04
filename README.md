@@ -76,7 +76,7 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 </p>
 
 </td>
-<h2>GitHub Statistics</h2>
+<h2> GitHub Statistics</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=A-straya&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -96,3 +96,19 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 🪐 See you among the stars.
 
 </p>
+README
+↓
+
+Pinned Repositories
+
+CCNA-01
+
+CCNA-02
+
+CCNA-03
+
+CCNA-04
+
+CCNA-05
+
+CCNA-06 (future)
