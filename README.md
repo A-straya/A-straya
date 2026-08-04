@@ -1,7 +1,6 @@
 <p align="center">
 <img src="banner.png" width="100%">
 </p>
-<br>
 <div align="center">
 
 <table>
@@ -40,7 +39,7 @@
 
 <td width="72%" valign="top">
 
-🪐 About Me
+#About Me
 
 Hi, I'm **Aya**.
 
@@ -54,7 +53,7 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 
 <td align="center" width="28%">
 
-<img src="eclipse.png" width="210"/>
+<img src="eclipse.png" width="250"/>
 
 </td>
 
