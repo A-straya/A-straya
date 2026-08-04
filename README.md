@@ -43,15 +43,15 @@
 
 Hi, I'm **Aya**.
 
-I'm a Network & Computer Science student from Morocco.
+I'm a Network & Cybersecurity student.
 
 I enjoy designing networks, exploring cybersecurity, learning Linux, and automating tasks with Python.
 
 Currently building real-world CCNA labs and documenting everything on GitHub.
 
 </td>
-<td width="50%" align="center" valign="middle">
-  <img src="eclipse.png" width="100%" alt="Eclipse">
+<td width="28%" align="center" valign="middle" style="padding:20px;">
+  <img src="eclipse.png" width="220" alt="Eclipse">
 </td>
 </td>
 
