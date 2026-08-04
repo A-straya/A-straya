@@ -74,3 +74,98 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=white"/>
 
 </p>
+<h2> Featured Projects</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+###  CCNA Enterprise Labs
+
+Advanced Cisco Packet Tracer labs covering:
+
+- VLANs
+- Inter-VLAN Routing
+- OSPF
+- ACLs
+- DHCP
+- NAT
+
+<a href="https://github.com/A-straya">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Cybersecurity Labs
+
+Hands-on cybersecurity projects and labs:
+
+- Nmap Scanning
+- Wireshark Analysis
+- Linux Security
+- Enumeration
+- Network Hardening
+
+<a href="https://github.com/A-straya">View Repository →</a>
+
+</td>
+
+</tr>
+</table>
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+###  Python Automation
+
+Automation scripts for networking:
+
+- IP Calculator
+- Ping Sweep
+- Port Scanner
+- Log Parser
+
+<a href="https://github.com/A-straya">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Linux Projects
+
+Linux administration and Bash scripting.
+
+<a href="https://github.com/A-straya">View Repository →</a>
+
+</td>
+
+</tr>
+</table>
+<h2> GitHub Statistics</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=A-straya&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-straya&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=A-straya&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+<p align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Thanks for visiting Astraya's Universe ⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</p>
+
