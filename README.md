@@ -76,19 +76,15 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 </p>
 
 </td>
-<h2> GitHub Statistics</h2>
-
+<h2>stats</h2>
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=A-straya&show_icons=true&theme=synthwave&hide_border=true&border_radius=12"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-straya&layout=compact&theme=synthwave&hide_border=true&border_radius=12"/>
-
+<img height="180" src="https://ghstats.dev/api?username=A-straya&theme=synthwave&show_icons=true&hide_border=true"/>
+<img height="180" src="https://ghstats.dev/api/top-langs?username=A-straya&theme=synthwave&layout=compact&hide_border=true"/>
+  
 </p>
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true&border_radius=12"/>
-
+<img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true"/>
+</p>
 </p>
 <p align="center">
 
