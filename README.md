@@ -39,7 +39,7 @@
 
 <td width="72%" valign="top">
 
-About Me
+**About Me**
 
 Hi, I'm **Aya**.
 
@@ -50,11 +50,9 @@ I enjoy designing networks, exploring cybersecurity, learning Linux, and automat
 Currently building real-world CCNA labs and documenting everything on GitHub.
 
 </td>
-
-<td align="center" width="40%">
-
-<img src="eclipse.png" width="300"/>
-
+<td width="50%" align="center" valign="middle">
+  <img src="eclipse.png" width="700" alt="Eclipse">
+</td>
 </td>
 
 </tr>
