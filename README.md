@@ -22,7 +22,15 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
+<h2>🚀 Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode,docker" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=debian,kali,ubuntu,html,css,js" />
+</p>
 </td>
 </tr>
 </table>
