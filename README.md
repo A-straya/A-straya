@@ -51,7 +51,7 @@ Currently building real-world CCNA labs and documenting everything on GitHub.
 
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="eclipse.png" width="700" alt="Eclipse">
+  <img src="eclipse.png" width="100%" alt="Eclipse">
 </td>
 </td>
 
