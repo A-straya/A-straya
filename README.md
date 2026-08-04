@@ -33,8 +33,7 @@
 
 
 
-#  Welcome to Astraya's Universe
-
+<h2> Welcome to Astraya's Universe</h2>
 <table width="100%">
 <tr>
 
