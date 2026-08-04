@@ -1,30 +1,38 @@
 <p align="center">
 <img src="banner.png" width="100%">
 </p>
-<table width="100%">
-<tr>
 <div align="center">
 
 <table>
 <tr>
 <td align="center">
 
-<a href="YOUR_LINKEDIN">LINKEDIN</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<a href="mailto:YOUR_EMAIL">GMAIL</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<a href="YOUR_RESUME">RESUME</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readme&logoColor=white">
+</a>
 
-<a href="YOUR_PORTFOLIO">PORTFOLIO</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
+
+
+
 #  Welcome to Astraya's Universe
 
 <table width="100%">
