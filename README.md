@@ -20,6 +20,4 @@
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 </p>
-<p align="right">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="80">
-</p>
+
