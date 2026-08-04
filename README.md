@@ -92,7 +92,6 @@ Advanced Cisco Packet Tracer labs covering:
 - DHCP
 - NAT
 
-<a href="https://github.com/A-straya/CCNA-Lab01-Basic-Network">View Repository →</a>
 
 </td>
 
