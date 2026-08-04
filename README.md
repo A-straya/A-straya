@@ -92,13 +92,10 @@ and documenting every project on GitHub.
 ##  GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=A-straya&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=FF6EC7&text_color=FFFFFF&ring_color=FFB000"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-straya&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=FFFFFF"/>
+  <img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true&background=00000000&ring=FFB000&fire=FF6A00&currStreakLabel=00E5FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-straya&theme=react-dark&hide_border=true"/>
 </p>
 <p align="center">
 
