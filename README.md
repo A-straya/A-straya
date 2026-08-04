@@ -1,24 +1,28 @@
 <p align="center">
-<img src="assets/banner.png" width="100%">
+<img src="banner.png" width="100%">
 </p>
 <table width="100%">
 <tr>
 
 <td align="center">
 
-<a href="YOUR_PORTFOLIO">◈ PORTFOLIO</a>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-&nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="YOUR_LINKEDIN">◈ LINKEDIN</a>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readme&logoColor=white">
+  </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">◈ GMAIL</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_RESUME">◈ RESUME</a>
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+</p>
 
 </td>
 
