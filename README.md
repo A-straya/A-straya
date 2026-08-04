@@ -87,19 +87,19 @@ and documenting every project on GitHub.
 -  Preparing for the Cisco CCNA certification
 
 ---
-
-##  GitHub Activity
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true"/>
-
-</p>
-
-> *(GitHub Stats cards can be added later once the image service is working reliably.)*
-
 ---
 
+##  GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=A-straya&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=FF6EC7&text_color=FFFFFF&ring_color=FFB000"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-straya&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true&background=00000000&ring=FFB000&fire=FF6A00&currStreakLabel=00E5FF"/>
+</p>
 <p align="center">
 
 ✦ See you among the stars.
