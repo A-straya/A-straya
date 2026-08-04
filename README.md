@@ -1,100 +1,110 @@
 <p align="center">
-<img src="banner.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
-<div align="center">
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="YOUR_RESUME">
+<img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+</p>
+
+# Welcome to Astraya's Universe
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table>
-<tr>
-<td align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readme&logoColor=white">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
-
-</table>
-
-</div>
-
-
-
-
-
-<h2> Welcome to Astraya's Universe</h2>
-<table width="100%">
 <tr>
 
 <td width="72%" valign="top">
 
-**About Me**
+###  About Me
 
 Hi, I'm **Aya**.
 
-I'm a Network & Cybersecurity student.
+I'm a **Network & Cybersecurity student** from Morocco.
 
-I enjoy designing networks, exploring cybersecurity, learning Linux, and automating tasks with Python.
+I'm passionate about designing networks, exploring cybersecurity,
+working with Linux, and automating networking tasks using Python.
 
-Currently building real-world CCNA labs and documenting everything on GitHub.
+Currently building professional **Cisco CCNA labs**
+and documenting every project on GitHub.
 
 </td>
-<td width="80%" align="center" valign="middle" style="padding:20px;">
-  <img src="eclipse.png" width="100%" alt="Eclipse">
-</td>
+
+<td width="28%" align="center">
+
+<img src="eclipse.png" width="170">
+
 </td>
 
 </tr>
 </table>
-<h2>💻 Technologies</h2>
+
+---
+
+## 💻 Technologies
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali-111111?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logoColor=white"/>
 
 </p>
 
-</td>
-<h2>stats</h2>
+---
+
+##  Current Focus
+
+-  Building advanced CCNA labs
+-  Strengthening networking fundamentals
+-  Learning Linux administration
+-  Python for Network Automation
+-  Preparing for the Cisco CCNA certification
+
+---
+
+##  GitHub Activity
+
 <p align="center">
-<img height="180" src="https://ghstats.dev/api?username=A-straya&theme=synthwave&show_icons=true&hide_border=true"/>
-<img height="180" src="https://ghstats.dev/api/top-langs?username=A-straya&theme=synthwave&layout=compact&hide_border=true"/>
-  
-</p>
-<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true"/>
+
 </p>
-</p>
+
+> *(GitHub Stats cards can be added later once the image service is working reliably.)*
+
+---
+
 <p align="center">
 
-✦ Exploring networks, one packet at a time.
+✦ See you among the stars.
 
 </p>
 
-<p align="center">
 
-🪐 See you among the stars.
-
-</p>
 
