@@ -150,44 +150,23 @@ Automation & Networking
 </td>
 </tr>
 </table>
+
+
 ## Certifications
 
-<table>
-<tr>
+<p align="center">
+  <a href="https://github.com/A-straya/Certifications">
+    <img src="assets/ccna1.png" width="120" alt="CCNA 1">
+  </a>
 
-<td align="center" width="33%">
+  <a href="https://github.com/A-straya/Certifications">
+    <img src="assets/ccna2.png" width="120" alt="CCNA 2">
+  </a>
 
-<img src="https://skillicons.dev/icons?i=cisco" width="55"/>
-
-### CCNA 1
-
-Introduction to Networks
-
-**Completed**
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=cisco" width="55"/>
-
-### CCNA 2
-
-Switching, Routing & Wireless Essentials
-
-**Completed**
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=cisco" width="55"/>
-
-### CCNA 3
-
-Enterprise Networking, Security & Automation
-
-**Completed**
+  <a href="https://github.com/A-straya/Certifications">
+    <img src="assets/ccna3.png" width="120" alt="CCNA 3">
+  </a>
+</p>
 
 </td>
 
