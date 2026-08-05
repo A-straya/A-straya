@@ -97,6 +97,60 @@ and documenting every project on GitHub.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-straya&theme=react-dark&hide_border=true"/>
 </p>
+## Current Learning Paths
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+###  CCNA
+
+Building enterprise networking labs
+
+<a href="https://github.com/A-straya/CCNA-Learning-Path">
+<img src="https://img.shields.io/badge/View%20Roadmap-0A66C2?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+###  Linux
+
+System Administration Journey
+
+<a href="https://github.com/A-straya/Linux-Learning-Path">
+<img src="https://img.shields.io/badge/View%20Roadmap-A81D33?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+###  Cybersecurity
+
+Hands-on Security Labs
+
+<a href="https://github.com/A-straya/Cybersecurity-Learning-Path">
+<img src="https://img.shields.io/badge/Coming%20Soon-black?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+###  Python
+
+Automation & Networking
+
+<a href="https://github.com/A-straya/Python-Learning-Path">
+<img src="https://img.shields.io/badge/Coming%20Soon-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
 <p align="center">
 
 ✦ See you among the stars.
