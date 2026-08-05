@@ -152,23 +152,6 @@ Automation & Networking
 </table>
 
 
-## Certifications
-
-<p align="center">
-  <a href="https://github.com/A-straya/Certifications">
-    <img src="assets/ccna1.png" width="120" alt="CCNA 1">
-  </a>
-
-  <a href="https://github.com/A-straya/Certifications">
-    <img src="assets/ccna2.png" width="120" alt="CCNA 2">
-  </a>
-
-  <a href="https://github.com/A-straya/Certifications">
-    <img src="assets/ccna3.png" width="120" alt="CCNA 3">
-  </a>
-</p>
-
-</td>
 
 </tr>
 </table>
