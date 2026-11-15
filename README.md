@@ -1,167 +1,124 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
+<img src="assets/banner-lain.png" width="100%" alt="wired connection established">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2800&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+booting+AYA.EXE...;%3E+handshake+with+the+wired...+OK;%3E+PLAYER+CLASS%3A+GREY+HAT+%2F+NET+ENGINEER;%3E+CCNA+x3+UNLOCKED;%3E+READY%3F" alt="typing"></a>
 
-<a href="mailto:hathoutaya8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img src="assets/cyber-eye.png" width="460" alt="scanning">
 
-<a href="YOUR_RESUME">
-<img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white">
-</a>
+```
+┌──────────────────────────────────────────────────────────┐
+│  SUBJECT : AYA                      STATUS : ONLINE      │
+│  CLASS   : NETWORK & SYSTEMS SECURITY STUDENT            │
+│  ALIGN   : GREY HAT                 THREAT : ★ ★ ★       │
+└──────────────────────────────────────────────────────────┘
+```
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
+![](https://img.shields.io/badge/CCNA-x3_UNLOCKED-00ff9c?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/ALIGNMENT-GREY_HAT-b967ff?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/LINUX-DAILY_DRIVER-ff2e88?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/PYTHON-AUTOMATION-00e5ff?style=for-the-badge&labelColor=0a0a0a)
 
-</p>
+</div>
 
-# Welcome to Astraya's Universe
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## `> PLAYER_PROFILE`
 
 <table>
 <tr>
+<td width="260" align="center"><img src="assets/player-portrait.png" width="240" alt="player portrait"></td>
+<td>
 
-<td width="72%" valign="top">
+```yaml
+name:      Aya
+role:      Network & Systems Security Student
+alignment: Grey Hat
+mission:   Design networks. Break them (legally). Automate the boring parts.
+loadout:   Cisco · Linux · Windows · Python
+status:    Building CCNA labs, documenting every single one
+```
 
-###  About Me
-
-Hi, I'm **Aya**.
-
-I'm a **Network & Cybersecurity student** from Morocco.
-
-I'm passionate about designing networks, exploring cybersecurity,
-working with Linux, and automating networking tasks using Python.
-
-Currently building professional **Cisco CCNA labs**
-and documenting every project on GitHub.
-
-</td>
-
-<td width="28%" align="center">
-
-<img src="eclipse.png" width="170">
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💻 Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kali-111111?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logoColor=white"/>
-
-</p>
-
----
-
-##  Current Focus
-
--  Building advanced CCNA labs
--  Strengthening networking fundamentals
--  Learning Linux administration
--  Python for Network Automation
--  Preparing for the Cisco CCNA certification
-
----
----
-
-##  GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=A-straya&theme=highcontrast&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-straya&theme=react-dark&hide_border=true"/>
-</p>
-## Current Learning Paths
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-###  CCNA
-
-Building enterprise networking labs
-
-<a href="https://github.com/A-straya/CCNA-Learning-Path">
-<img src="https://img.shields.io/badge/View%20Roadmap-0A66C2?style=for-the-badge">
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-###  Linux
-
-System Administration Journey
-
-<a href="https://github.com/A-straya/Linux-Learning-Path">
-<img src="https://img.shields.io/badge/View%20Roadmap-A81D33?style=for-the-badge">
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-###  Cybersecurity
-
-Hands-on Security Labs
-
-<a href="https://github.com/A-straya/Cybersecurity-Learning-Path">
-<img src="https://img.shields.io/badge/Coming%20Soon-black?style=for-the-badge">
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-###  Python
-
-Automation & Networking
-
-<a href="https://github.com/A-straya/Python-Learning-Path">
-<img src="https://img.shields.io/badge/Coming%20Soon-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
+> *"If I can not win, I will keep fighting till the bitter end."*
 
 </td>
 </tr>
 </table>
 
+---
 
+## `> STAT_SHEET`
 
-</tr>
-</table>
+```
+NETWORKING      [██████████████████░░]  CCNA x3 · routing · switching · VLANs · OSPF
+CYBERSECURITY   [███████████████░░░░░]  recon · scanning · hardening · grey-hat mindset
+LINUX           [█████████████████░░░]  CLI native · services · permissions · scripting
+WINDOWS         [██████████████░░░░░░]  admin · AD concepts · security internals
+PYTHON          [███████████████░░░░░]  network automation · scanners · tooling
+CURIOSITY       [████████████████████]  MAX
+```
 
+---
 
-<p align="center">
+## `> QUEST_LOG`
 
-✦ See you among the stars.
+<div align="center">
+<img src="assets/control-panel.gif" width="520" alt="control panel">
+</div>
 
-</p>
+| QUEST | TYPE | STATUS |
+|:--|:--|:--|
+|  **CCNA Topologies** — full lab series, every one documented | Networking | `[ ONGOING ]` |
+|  **Internet Scanning** — mapping and recon projects | Security | `[ ONGOING ]` |
+|  **Linux Labs** — hardening, services, scripting | Systems | `[ ONGOING ]` |
+|  **Windows Systems** — admin & security study | Systems | `[ ONGOING ]` |
+|  **Python Automation** — scripts that configure and audit networks | Automation | `[ ONGOING ]` |
+
+> ➜ Pin your 6 best repos above this section. Each one is a "level".
+
+---
+
+## `> INVENTORY`
+
+<div align="center">
+
+![](https://img.shields.io/badge/-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/-Packet_Tracer-00bceb?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## `> SYSTEM_LOG`
+
+<div align="center">
+<img src="assets/circuit-blink.gif" width="560" alt="system online">
+</div>
+
+```
+> mechanized heart never misses a beat.
+> every lab documented. every packet accounted for.
+> the wired is just another network.
+```
+
+<div align="center">
+
+[![](https://img.shields.io/badge/GITHUB-AYA-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/YOUR-USERNAME)
+[![](https://img.shields.io/badge/LINKEDIN-CONNECT-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com/in/YOUR-LINK)
+
+<img src="https://github-readme-stats.vercel.app/api?username=A-strayashow_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=ff2e88&text_color=c9d1d9" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-straya&theme=dark&hide_border=true&background=0a0a0a&ring=00ff9c&fire=ff2e88&currStreakLabel=00e5ff" height="150">
+
+`> ready?` ▮
+
+</div>
 
 
 
