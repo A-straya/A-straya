@@ -212,7 +212,6 @@ The internet is a hostile network that happens to carry cat videos. Everything I
 | 🐍 **net-automation** | Python scripts that configure and audit network gear | Python, netmiko |
 | 🐧 **linux-notes** | Hardening, services and everyday admin cheatsheets | Linux, Bash |
 
-> Rename these to your real repos and pin your best 4–6.
 
 <br/>
 
